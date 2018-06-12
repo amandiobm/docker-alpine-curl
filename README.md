@@ -6,4 +6,4 @@ Available from docker hub as [amandiomagalhaes/docker-alpine-curl](https://hub.d
 
 ## Usage
 
-```docker run --rm amandiomagalhaes/alpine-curl curl https://www.google.com```
+```docker run --rm amandiomagalhaes/docker-alpine-curl https://www.google.com```
